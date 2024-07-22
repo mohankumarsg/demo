@@ -6,3 +6,5 @@ add now line
 
 git pull testing 
 
+git fetch testing
+
